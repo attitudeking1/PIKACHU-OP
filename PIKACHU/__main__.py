@@ -67,7 +67,7 @@ Here is modules:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can be triggered with the following: /, !.\n")
 
-LEGEND_IMG = "https://telegra.ph/file/3088bf99d782acc902fc6.jpg"
+LEGEND_IMG = "https://telegra.ph/file/0a209a76a183f9318a7f0.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 Legend is hosted on one of Heroku's Servers and doesn't require any donations as of now but \
@@ -196,24 +196,24 @@ def start(update: Update, context: CallbackContext):
                      ],
                      [
                         InlineKeyboardButton(
-                            text=" ⚡ ѕσυя¢є ¢σ∂є ",
-                            url="https://t.me/pro_masti"),
+                            text=" ⚡ MY CREØT3R ",
+                            url="https://t.me/ELITES_OWNER_1724"),
                          InlineKeyboardButton(
                             text=" ❤️ Channel ",
-                             url="https://t.me/pikachubotupdates")        
+                             url="https://t.me/THE_ELITES_NETWORK")        
                       ],
                       [ 
                         InlineKeyboardButton(
                              text=" ✨ Support ",
-                             url="https://t.me/pikachubotsupport"),
+                             url="https://t.me/ELITES_NETWORK_SUPPORT"),
                         InlineKeyboardButton(
-                             text=" 👨‍💻 Creator ",
-                             url="https://t.me/PYTHON_CODER_SRINIVAS")
+                             text=" 👨‍💻 MY BRO ",
+                             url="https://t.me/VEDMAT_ROBOT")
                     
                     ]]))
     else:
         update.effective_message.reply_text(
-            "🔥Hey! PIKACHU IS ONLINE.\n⚙️All systems online and functioning normally!!\n<b>⏱ Alive time:</b> <code>{}</code>\n✨ Thanks for adding me! ✨"
+            "🔥Hey! ELITES ROBOT IS ONLINE.\n⚙️All systems online and functioning normally!!\n<b>⏱ Alive time:</b> <code>{}</code>\n✨ Thanks for adding me! ✨"
             .format(uptime),
             parse_mode=ParseMode.HTML)
 
