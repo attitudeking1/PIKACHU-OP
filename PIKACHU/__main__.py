@@ -197,18 +197,18 @@ def start(update: Update, context: CallbackContext):
                      [
                         InlineKeyboardButton(
                             text=" ⚡ MY CREØT3R ",
-                            url="https://t.me/ELITES_OWNER_1724"),
+                            url="https://t.me/EL1TES_OWN3R_1724"),
                          InlineKeyboardButton(
                             text=" ❤️ Channel ",
-                             url="https://t.me/THE_ELITES_NETWORK")        
+                             url="https://t.me/ELITES_NETWORK")        
                       ],
                       [ 
                         InlineKeyboardButton(
                              text=" ✨ Support ",
-                             url="https://t.me/ELITES_NETWORK_SUPPORT"),
+                             url="https://t.me/ELITES_NETWORK_OFFICIAL"),
                         InlineKeyboardButton(
                              text=" 👨‍💻 MY BRO ",
-                             url="https://t.me/VEDMAT_ROBOT")
+                             url="https://t.me/LOVELYR_OBOT")
                     
                     ]]))
     else:
