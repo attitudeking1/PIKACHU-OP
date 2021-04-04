@@ -200,14 +200,14 @@ def start(update: Update, context: CallbackContext):
                             url="https://t.me/EL1TES_OWN3R_1724"),
                          InlineKeyboardButton(
                             text=" ❤️ Channel ",
-                             url="https://t.me/ELITES_NETWORK")        
+                             url="https://t.me/ELITES_NETWORK_OFFICIAL")        
                       ],
                       [ 
                         InlineKeyboardButton(
                              text=" ✨ Support ",
-                             url="https://t.me/ELITES_NETWORK_OFFICIAL"),
+                             url="https://t.me/ELITES_NETWORK"),
                         InlineKeyboardButton(
-                             text=" 👨‍💻 MY BRO ",
+                             text=" 👨‍💻 MY BESTIE ",
                              url="https://t.me/LOVELYR_OBOT")
                     
                     ]]))
